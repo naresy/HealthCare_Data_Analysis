@@ -34,7 +34,7 @@
 <h3>Dashboard Snapshots</h3>
 <p>Below are snapshots of the key pages from the Power BI dashboard:</p>
         
-        <!-- Add your image references here -->
+        
  <img src="https://github.com/naresy/HealthCare_Data_Analysis/blob/main/assets/Snap1.png" alt="Healthcare Overview">
  <img src="https://github.com/naresy/HealthCare_Data_Analysis/blob/main/assets/snap2.png" alt="Spending Overview">
  <img src="https://github.com/naresy/HealthCare_Data_Analysis/blob/main/assets/snap3.png" alt="Outcome Analysis">
