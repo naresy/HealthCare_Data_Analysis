@@ -31,6 +31,14 @@
 <li><strong>Outcome Analysis</strong>: Provides insights into healthcare outcomes such as life expectancy and disease rates.</li>
 <li><strong>Trend Analysis</strong>: Visualizes trends over time for key metrics.</li>
 </ul>
+<h3>Dashboard Snapshots</h3>
+<p>Below are snapshots of the key pages from the Power BI dashboard:</p>
+        
+        <!-- Add your image references here -->
+ <img src="https://github.com/naresy/HealthCare_Data_Analysis/blob/main/assets/Snap1.png" alt="Healthcare Overview">
+ <img src="https://github.com/naresy/HealthCare_Data_Analysis/blob/main/assets/snap2.png" alt="Spending Overview">
+ <img src="https://github.com/naresy/HealthCare_Data_Analysis/blob/main/assets/snap3.png" alt="Outcome Analysis">
+ <img src="https://github.com/naresy/HealthCare_Data_Analysis/blob/main/assets/snap4.png" alt="Trend Analysis">
 <h2>License</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE.md">LICENSE.md</a> file for details.</p>
 <h2>Contact</h2>
