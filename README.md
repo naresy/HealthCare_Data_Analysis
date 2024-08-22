@@ -9,7 +9,7 @@
 </li>
 <li><strong>data/</strong>: Folder with raw data files.
 <ul>
-<li><code>US_Healthcare_Data.csv</code>: The dataset used in the Power BI project.</li>
+<li><code>All csv Data set</code>: The dataset used in the Power BI project.</li>
 </ul>
 </li>
 <li><strong>analysis/</strong>: Contains additional analysis scripts.</li>
